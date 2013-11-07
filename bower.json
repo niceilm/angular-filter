@@ -1,0 +1,8 @@
+{
+    "name": "nangularjs-filter",
+    "version": "0.0.1",
+    "main": "nangular-filter.js",
+    "dependencies": {
+        "angular": "~1.2.0-rc.3"
+    }
+}

@@ -1,2 +1,2 @@
-angularjs-directive
+nangularjs-filter
 ===================
